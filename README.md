@@ -4,7 +4,7 @@ This is a starter template for building AI agents using [Mastra](https://mastra.
 
 ## Prerequisites
 
-- Node.js 18+ 
+- Node.js 18+
 - Any of the following package managers:
   - pnpm (recommended)
   - npm
